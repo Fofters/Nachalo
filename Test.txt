@@ -3,9 +3,13 @@ helloo
 fdsfsfdvcvcvcсысысвысвы
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 text 1
 =======
 
 
 text2
 >>>>>>> text2
+=======
+text 1text 1text 1
+>>>>>>> text
