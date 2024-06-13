@@ -1,9 +1,5 @@
 hi
 helloo
-<<<<<<< HEAD
-=======
-
->>>>>>> text2
 
 
 text 1text 1text 1text 1
