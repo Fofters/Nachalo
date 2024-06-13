@@ -8,8 +8,12 @@ text 1
 =======
 
 
+<<<<<<< HEAD
 text2
 >>>>>>> text2
 =======
 text 1text 1text 1
 >>>>>>> text
+=======
+text2text2
+>>>>>>> text2
